@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pmguda)](https://github.com/anuraghazra/github-readme-stats)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=github&link=https://www.pmguda.com/)](https://www.pmguda.com/)
 <!--
 **pmguda/pmguda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
